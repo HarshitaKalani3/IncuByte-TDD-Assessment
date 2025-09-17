@@ -8,6 +8,7 @@ This repository contains a Simple String Calculator which helps to calculate a s
 # Files
 1. string_num_adds.py
 2. test_string_num_adds.py
+3. screenshots folder
 # How To Run
 python -m unittest test_string_num_add.py
 # Author
