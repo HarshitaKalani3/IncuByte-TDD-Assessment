@@ -11,3 +11,4 @@ This repository contains a Simple String Calculator which helps to calculate a s
 # How To Run
 python -m unittest test_string_num_add.py
 # Author
+Harshita Kalani (https://github.com/HarshitaKalani3)
